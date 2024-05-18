@@ -1,0 +1,6 @@
+
+{"user_id":0,"type":"Common","time":1715902504505,"method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","time":1715902504509,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Error","time":1715902529445,"method":"SEND_MESSAGE","message":"user is not allowed to send messages in this chat"}
+{"user_id":0,"type":"Error","time":1715902529447,"method":"PERMISSION_VALIDATION","message":"Access denied"}
+{"user_id":0,"type":"Common","time":1715902644073,"method":"SEND_MESSAGE","message":"message sent:Тест разрешений 2))))"}

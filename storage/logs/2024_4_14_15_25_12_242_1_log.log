@@ -1,0 +1,20 @@
+
+{"user_id":0,"type":"Common","method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Common","method":"SEND_MESSAGE","message":"message sent:API tested, hi everybody again!"}
+{"user_id":0,"type":"Common","method":"SEND_MESSAGE","message":"message sent:API tested, hi everybody again!"}
+{"user_id":0,"type":"Error","method":"LOAD_CHAT","message":"ENOENT: no such file or directory, open '/Users/andrey/Projects/VKR_Server/SpiderCASBServer/storage/chats/base/chat_undefined.json'"}
+{"user_id":0,"type":"Common","method":"LOAD_CHAT","message":"chat loaded:0"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:3 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:3 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:3 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:4 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:2 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:-1 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:0 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:2 updated"}
+{"user_id":0,"type":"Common","method":"REDMINE_GET_ISSUES","message":"recieved 1"}
+{"user_id":0,"type":"Common","method":"GET_CHATS","message":"successfuly loaded 1 chats"}

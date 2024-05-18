@@ -1,0 +1,5 @@
+
+{"user_id":0,"type":"Common","time":1715951929047,"method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","time":1715951929052,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Common","time":1715951943615,"method":"GET_CHATS","message":"successfuly loaded 1 chats"}
+{"user_id":0,"type":"Error","time":1715951952933,"method":"PERMISSION_VALIDATION","message":"print is not defined"}

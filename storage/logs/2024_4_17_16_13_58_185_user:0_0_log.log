@@ -1,0 +1,6 @@
+
+{"user_id":0,"type":"Common","time":1715951638185,"method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","time":1715951638193,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Common","time":1715951650264,"method":"GET_CHATS","message":"successfuly loaded 1 chats"}
+{"user_id":0,"type":"Common","time":1715951683485,"method":"LOAD_CHAT","message":"user:0 has no access to chat:0"}
+{"user_id":0,"type":"Error","time":1715951683487,"method":"PERMISSION_VALIDATION","message":"Access denied"}

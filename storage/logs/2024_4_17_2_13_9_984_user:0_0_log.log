@@ -1,0 +1,4 @@
+
+{"user_id":0,"type":"Common","time":1715901189984,"method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","time":1715901189990,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Error","time":1715901224593,"method":"PERMISSION_VALIDATION","message":"logger is not defined"}

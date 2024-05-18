@@ -1,0 +1,13 @@
+
+{"user_id":0,"type":"Common","method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","method":"GET","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Common","method":"GET","message":"Authentification successful"}
+{"user_id":0,"type":"Common","method":"GET","message":"successfuly loaded 1 chats"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_GET_ISSUES","message":"recieved 1"}
+{"user_id":0,"type":"Common","method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
+{"user_id":0,"type":"Common","method":"REDMINE_GET_ISSUES","message":"recieved 1"}
+{"user_id":0,"type":"Common","method":"REDMINE_GET_ISSUES","message":"recieved 1"}

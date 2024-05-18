@@ -1,0 +1,4 @@
+
+{"user_id":0,"type":"Common","time":1715952924837,"method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","time":1715952924841,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Common","time":1715952946336,"method":"GET_CHATS","message":"successfuly loaded 1 chats"}

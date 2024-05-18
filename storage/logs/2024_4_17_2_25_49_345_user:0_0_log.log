@@ -1,0 +1,5 @@
+
+{"user_id":0,"type":"Common","time":1715901949346,"method":"Inintialization","message":"Successful"}
+{"user_id":0,"type":"Common","time":1715901949351,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
+{"user_id":0,"type":"Error","time":1715901967876,"method":"LOAD_CHAT","message":"user is not authentificated"}
+{"user_id":0,"type":"Error","time":1715901967877,"method":"PERMISSION_VALIDATION","message":"res is not defined"}
