@@ -34,6 +34,6 @@ services_api_initialize(app);
 //finish initializing external services api
 
 
-app.listen(PORT, '192.168.0.101', () => {
+app.listen(PORT,  () => {
     SystemLogger.log("SERVER_INITIALIZATION", `SERVER STARTED AT PORT: ${PORT}`);
 })
