@@ -1,9 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1715952964473,"method":"Inintialization","message":"Successful"}
-{"user_id":0,"type":"Common","time":1715952964479,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
-{"user_id":0,"type":"Common","time":1715952977634,"method":"GET_CHATS","message":"successfuly loaded 1 chats"}
-{"user_id":0,"type":"Common","time":1715952989078,"method":"LOAD_CHAT","message":"chat loaded:0"}
-{"user_id":0,"type":"Common","time":1715953008297,"method":"LOAD_CHAT","message":"chat loaded:0"}
-{"user_id":0,"type":"Common","time":1715953013550,"method":"GET_CHATS","message":"successfuly loaded 1 chats"}
-{"user_id":0,"type":"Common","time":1715953038823,"method":"LOAD_CHAT","message":"chat loaded:1"}
-{"user_id":0,"type":"Common","time":1715953049734,"method":"LOAD_CHAT","message":"chat loaded:0"}

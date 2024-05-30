@@ -1,6 +1,0 @@
-
-{"user_id":1,"type":"Common","method":"Inintialization","message":"Successful"}
-{"user_id":1,"type":"Common","method":"LOGIN","message":"test_user_2 sucessfuly loged in"}
-{"user_id":1,"type":"Common","method":"GET_CHATS","message":"successfuly loaded 9 chats"}
-{"user_id":1,"type":"Common","method":"GET_CHATS","message":"successfuly loaded 9 chats"}
-{"user_id":1,"type":"Common","method":"GET_CHATS","message":"successfuly loaded 9 chats"}

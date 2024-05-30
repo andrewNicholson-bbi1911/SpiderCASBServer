@@ -1,0 +1,23 @@
+
+{"user_id":1,"type":"Common","time":1717101579173,"method":"Inintialization","message":"Successful"}
+{"user_id":1,"type":"Common","time":1717101579176,"method":"LOGIN","message":"test_user_2 sucessfuly loged in"}
+{"user_id":1,"type":"Common","time":1717101579256,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717101585283,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717101591332,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Error","time":1717101593816,"method":"LOAD_CHAT","message":"user is not authentificated"}
+{"user_id":1,"type":"Error","time":1717101593865,"method":"LOAD_CHAT","message":"user is not authentificated"}
+{"user_id":1,"type":"Common","time":1717101596983,"method":"AUTHENTICATION","message":"Authentication successful"}
+{"user_id":1,"type":"Common","time":1717101596994,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717101597366,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717101598514,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717101599773,"method":"AUTHENTICATION","message":"Authentication successful"}
+{"user_id":1,"type":"Common","time":1717101599784,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717101600035,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717101601304,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717101601553,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717101603385,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717101609427,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717101611727,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717101613251,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717101615455,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717101621524,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}

@@ -1,4 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1715951593054,"method":"Inintialization","message":"Successful"}
-{"user_id":0,"type":"Common","time":1715951593059,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
-{"user_id":0,"type":"Error","time":1715951603511,"method":"GET_CHATS","message":"log is not defined"}

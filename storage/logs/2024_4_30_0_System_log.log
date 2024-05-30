@@ -1,0 +1,8 @@
+
+{"user_id":"System","type":"Common","time":1717100200744,"method":"Inintialization","message":"Successful"}
+{"user_id":"System","type":"Common","time":1717100200847,"method":"SERVER_INITIALIZATION","message":"SERVER STARTED AT PORT: 5000"}
+{"user_id":"System","type":"Error","time":1717100246759,"method":"LOGIN","message":"Wrong login or password for casb_designer_1 : designer-password_1 : Error: wrong password"}
+{"user_id":"System","type":"Common","time":1717100737477,"method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:5 recieved"}
+{"user_id":"System","type":"Common","time":1717101466252,"method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:4 recieved"}
+{"user_id":"System","type":"Common","time":1717101535394,"method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:2 recieved"}
+{"user_id":"System","type":"Common","time":1717101545102,"method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:3 recieved"}

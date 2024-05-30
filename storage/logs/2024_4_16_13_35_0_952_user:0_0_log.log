@@ -1,7 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1715855700952,"method":"Inintialization","message":"Successful"}
-{"user_id":0,"type":"Common","time":1715855700956,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
-{"user_id":0,"type":"Common","time":1715855738410,"method":"GET_CHATS","message":"successfuly loaded 1 chats"}
-{"user_id":0,"type":"Error","time":1715855751225,"method":"LOAD_CHAT","message":"user is not authentificated"}
-{"user_id":0,"type":"Common","time":1715855767144,"method":"AUTHENTIFICATION","message":"Authentification successful"}
-{"user_id":0,"type":"Common","time":1715855772134,"method":"LOAD_CHAT","message":"chat loaded:1"}

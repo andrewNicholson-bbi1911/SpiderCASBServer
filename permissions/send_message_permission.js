@@ -1,7 +1,7 @@
 const { ChatManager, BaseChatType, SecretChatType} = require("../domain/models/chat");
 const { UserManager} = require("../domain/models/user");
 
-const BaseChatChattingAlows = { 1: [1, 0], 3: [1] };
+const BaseChatChattingAlows = { 11: [1, 0] };
 const SecretChatChattingAlows = { 1: [1] };
 
 module.exports = function(user, req){

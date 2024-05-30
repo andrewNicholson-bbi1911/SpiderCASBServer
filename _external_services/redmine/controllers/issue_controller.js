@@ -8,6 +8,7 @@ class IssueController {
 
         try{
             const {redmine_user_id} = req.redmine_user;
+            
             var result = await RedmineAPI.get_users_issues(redmine_user_id);
 
             if(result.status >= 200 && result.status <= 299){

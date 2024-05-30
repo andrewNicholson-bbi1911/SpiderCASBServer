@@ -1,0 +1,11 @@
+
+{"user_id":4,"type":"Common","time":1717101464609,"method":"Inintialization","message":"Successful"}
+{"user_id":4,"type":"Common","time":1717101464613,"method":"LOGIN","message":"casb_designer_1 sucessfuly loged in"}
+{"user_id":4,"type":"Common","time":1717101464683,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":4,"type":"Common","time":1717101466327,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":4,"type":"Common","time":1717101470730,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":4,"type":"Common","time":1717101471420,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":4,"type":"Common","time":1717101476766,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":4,"type":"Common","time":1717101482796,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":4,"type":"Common","time":1717101488860,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":4,"type":"Common","time":1717101494997,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}

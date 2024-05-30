@@ -1,4 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1716031618318,"method":"Inintialization","message":"Successful"}
-{"user_id":0,"type":"Common","time":1716031618322,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
-{"user_id":0,"type":"Error","time":1716031632186,"method":"GET_CHATS","message":"Cannot read properties of undefined (reading 'sending_time')"}

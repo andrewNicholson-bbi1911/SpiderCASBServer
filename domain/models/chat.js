@@ -20,6 +20,8 @@ class Message{
     }
 
     static create_message_from_json_obj(json_obj){
+        if(!json_obj)
+            json_obj = {};
         return new Message(
             json_obj.sender_id??-1,
             json_obj.sender_name??"Chat",

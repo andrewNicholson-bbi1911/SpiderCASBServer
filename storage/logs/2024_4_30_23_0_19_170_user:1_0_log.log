@@ -1,0 +1,457 @@
+
+{"user_id":1,"type":"Common","time":1717099219170,"method":"Inintialization","message":"Successful"}
+{"user_id":1,"type":"Common","time":1717099219172,"method":"LOGIN","message":"test_user_2 sucessfuly loged in"}
+{"user_id":1,"type":"Common","time":1717099219185,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099219225,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099220869,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099222386,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099223909,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099225256,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099225436,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099226967,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099228501,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099230096,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099231307,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099231623,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099233150,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099234675,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099236207,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099237333,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099237740,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099239277,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099240795,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099242318,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099243350,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099243862,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099245409,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099246971,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099248509,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099249368,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099250033,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099251555,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099253073,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099254599,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099255398,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099256118,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099257640,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099259161,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099260682,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099261430,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099262202,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099263721,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099265268,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099266799,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099267451,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099268323,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099269862,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099271396,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099272940,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099273472,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099274469,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099275993,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099278151,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099279496,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099279847,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099281378,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099282912,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099284450,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099285350,"method":"SEND_MESSAGE","message":"message sent:Всем привет! В этом чате будут публиковаться новости)\nПубликовать новости имеет право публиковать только админ, то есть я)"}
+{"user_id":1,"type":"Common","time":1717099285517,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099285984,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099286880,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099287513,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099288419,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099289054,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099289950,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099290583,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099291483,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099291543,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099292148,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099293015,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099293683,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099294549,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099295209,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099296087,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099296740,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099297578,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099297685,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099298277,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099299216,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099299809,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099300743,"method":"LOAD_CHAT","message":"chat loaded:11"}
+{"user_id":1,"type":"Common","time":1717099303834,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099310886,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099316922,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099322982,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099329032,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099333007,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":1,"type":"Common","time":1717099335277,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099338120,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":1,"type":"Common","time":1717099341322,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099343223,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":1,"type":"Common","time":1717099347374,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099348319,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":1,"type":"Common","time":1717099353418,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":1,"type":"Common","time":1717099353427,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099355900,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099358518,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":1,"type":"Common","time":1717099359466,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099361952,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099365581,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099367804,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099367997,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099369359,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099370905,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099371618,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099372435,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099373955,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099374022,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099375610,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099377144,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099377648,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099378669,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099380040,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099380186,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099381737,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099383253,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099383666,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099384777,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099386074,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099386300,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099387820,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099389361,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099389696,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099390886,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099392106,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099392409,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099393962,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099395490,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099395715,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099397036,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099398141,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099398561,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099400085,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099401626,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099401741,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099403150,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099404176,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099404670,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099406190,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099407720,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099407759,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099409275,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099410204,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099410806,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099412344,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099413789,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099413873,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099415400,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099416267,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099416943,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099418464,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099419820,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099419986,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099421509,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099422285,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099423028,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099424581,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099425868,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099426106,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099427637,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099428309,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099428754,"method":"SEND_MESSAGE","message":"message sent:Всем привет! Этот чат общий) в нём будет происходить обсуждение основных вопросов по разработке прототипов Spider CASB"}
+{"user_id":1,"type":"Common","time":1717099429268,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099430280,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099430789,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099431810,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099432030,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099434349,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099438126,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099440617,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Error","time":1717099442188,"method":"LOAD_CHAT","message":"user is not authentificated"}
+{"user_id":1,"type":"Error","time":1717099442290,"method":"LOAD_CHAT","message":"user is not authentificated"}
+{"user_id":1,"type":"Common","time":1717099444169,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Error","time":1717099446102,"method":"AUTHENTICATION","message":"Authentication error: wrong secret key"}
+{"user_id":1,"type":"Common","time":1717099446662,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Error","time":1717099448766,"method":"AUTHENTICATION","message":"Authentication error: wrong secret key"}
+{"user_id":1,"type":"Common","time":1717099450234,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099452707,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099456266,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Error","time":1717099456931,"method":"AUTHENTICATION","message":"Authentication error: wrong secret key"}
+{"user_id":1,"type":"Common","time":1717099458759,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099459531,"method":"AUTHENTICATION","message":"Authentication successful"}
+{"user_id":1,"type":"Common","time":1717099459553,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099461139,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099462326,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099462678,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099463474,"method":"AUTHENTICATION","message":"Authentication successful"}
+{"user_id":1,"type":"Common","time":1717099463513,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099464204,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099464802,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099464996,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099465067,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099465739,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099466532,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099466596,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099467273,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099468053,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099468118,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099468347,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099468836,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099469588,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099469647,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099470373,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099470837,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099471107,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099471173,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099471913,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099472624,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099472690,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099473439,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099474150,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099474203,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099474369,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099474970,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099475679,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099475725,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099476516,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099476857,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099477204,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099477237,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099478044,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099478731,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099478802,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099479591,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099480264,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099480323,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099480403,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099481120,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099481793,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099481841,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099482648,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099482907,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099483309,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099483365,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099484173,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099484889,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099485103,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099485974,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099486441,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099486445,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099486626,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099487657,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099487971,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099488148,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099488941,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099489183,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099489499,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099489664,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099490715,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099491025,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099491193,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099492248,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099492504,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099492548,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099492725,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099493779,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099494117,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099494248,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099494998,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099495299,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099495677,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099495775,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099496826,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099497207,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099497293,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099498350,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099498533,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099498727,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099498808,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099499879,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099500248,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099500320,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099501024,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099501404,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099501767,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099501832,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099502933,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099503301,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099503353,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099504459,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099504566,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099504823,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099504871,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099505979,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099506348,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099506382,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099507054,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099507509,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099507879,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099507907,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099509063,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099509400,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099509425,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099510582,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099510594,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099510922,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099510977,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099512104,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099512449,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099512500,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099513087,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099513635,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099513976,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099514018,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099515158,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099515586,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099515593,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099516624,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099516671,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099517114,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099518196,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099518632,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099519114,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099519727,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099520155,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099521324,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099521680,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099522659,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099522853,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099523218,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099524402,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099524745,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099525148,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099525936,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099526270,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099526507,"method":"SEND_MESSAGE","message":"message sent:Привет! сюда ты можешь писать просьбы на доработку функций, административные вопросы и прочее, с чем может помочь админ)"}
+{"user_id":1,"type":"Common","time":1717099527463,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099527821,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099528066,"method":"LOAD_CHAT","message":"chat loaded:4"}
+{"user_id":1,"type":"Common","time":1717099528685,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099531193,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099532985,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099534556,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099534778,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099535437,"method":"SEND_MESSAGE","message":"message sent:Привет! сюда ты можешь писать просьбы на доработку функций, административные вопросы и прочее, с чем может помочь админ)"}
+{"user_id":1,"type":"Common","time":1717099536086,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099536969,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099537220,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099537617,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099538517,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099539165,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099540041,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099540693,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099540804,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099541580,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099542226,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099543116,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099543259,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099543761,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099544659,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099545300,"method":"LOAD_CHAT","message":"chat loaded:5"}
+{"user_id":1,"type":"Common","time":1717099546862,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099548319,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099549296,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099549841,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099551369,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099552028,"method":"SEND_MESSAGE","message":"message sent:Привет! сюда ты можешь писать просьбы на доработку функций, административные вопросы и прочее, с чем может помочь админ)"}
+{"user_id":1,"type":"Common","time":1717099552880,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099552902,"method":"LOAD_CHAT","message":"chat loaded:6"}
+{"user_id":1,"type":"Common","time":1717099554415,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717099555315,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099555941,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717099557363,"method":"SEND_MESSAGE","message":"message sent:Привет! сюда ты можешь писать просьбы на доработку функций, административные вопросы и прочее, с чем может помочь админ)"}
+{"user_id":1,"type":"Common","time":1717099557467,"method":"LOAD_CHAT","message":"chat loaded:3"}
+{"user_id":1,"type":"Common","time":1717099558930,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099561348,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099564978,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099567394,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099571032,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099572995,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099573441,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099574549,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099576077,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099577057,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099577598,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099579128,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099579474,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099580656,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099582194,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099583077,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099583723,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099585269,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099585532,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099586799,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099588327,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099589136,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099589857,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099591385,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099591553,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099592906,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099594449,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099595156,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099595974,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099597497,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099597565,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099599022,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099599330,"method":"SEND_MESSAGE","message":"message sent:Ребята привет! тут мы решаем кодерские вопросы и помогаем друг другу)"}
+{"user_id":1,"type":"Common","time":1717099600616,"method":"LOAD_CHAT","message":"chat loaded:7"}
+{"user_id":1,"type":"Common","time":1717099601193,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099603591,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099607249,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099609628,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099613286,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099615666,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099619336,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099621900,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099625373,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099627931,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099631428,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099633966,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099637483,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099640017,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099643536,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099646264,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099649585,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099652312,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099655626,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099658360,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099661674,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099664401,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099667725,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099670449,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099673808,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099676487,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099679851,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099682732,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099685894,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099688767,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099691943,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099694805,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099697983,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099700855,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099704025,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099706901,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099710078,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099712941,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099716118,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099719193,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099722155,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099725245,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099728189,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099731299,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099734269,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099737346,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099740303,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099743379,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099746322,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099749416,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099752362,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099755457,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099758443,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099761502,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099764488,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099767550,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099770524,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099773593,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}
+{"user_id":1,"type":"Common","time":1717099776548,"method":"GET_CHATS","message":"successfuly loaded 7 chats"}

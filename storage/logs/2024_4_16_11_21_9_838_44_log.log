@@ -1,9 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1715854364038,"method":"LOAD_CHAT","message":"user:0 has no access to chat:5"}
-{"user_id":0,"type":"Common","time":1715854368521,"method":"LOAD_CHAT","message":"chat loaded:4"}
-{"user_id":0,"type":"Common","time":1715854372145,"method":"LOAD_CHAT","message":"user:0 has no access to chat:5"}
-{"user_id":0,"type":"Common","time":1715854380399,"method":"LOAD_CHAT","message":"chat loaded:1"}
-{"user_id":0,"type":"Error","time":1715854400676,"method":"LOAD_CHAT","message":"session_id is not defined"}
-{"user_id":0,"type":"Common","time":1715854442633,"method":"LOAD_CHAT","message":"user:undefined has no access to chat:1"}
-{"user_id":0,"type":"Common","time":1715854608389,"method":"LOAD_CHAT","message":"user:undefined has no access to chat:1"}
-{"user_id":0,"type":"Error","time":1715854670304,"method":"LOAD_CHAT","message":"Cannot read properties of undefined (reading 'last_auth_time')"}

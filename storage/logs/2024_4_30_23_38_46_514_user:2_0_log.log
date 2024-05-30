@@ -1,0 +1,8 @@
+
+{"user_id":2,"type":"Common","time":1717101526515,"method":"Inintialization","message":"Successful"}
+{"user_id":2,"type":"Common","time":1717101526519,"method":"LOGIN","message":"casb_coder_1 sucessfuly loged in"}
+{"user_id":2,"type":"Common","time":1717101526589,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":2,"type":"Common","time":1717101532649,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":2,"type":"Common","time":1717101535455,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}
+{"user_id":2,"type":"Common","time":1717101538684,"method":"GET_CHATS","message":"successfuly loaded 5 chats"}
+{"user_id":2,"type":"Common","time":1717101540551,"method":"REDMINE_GET_ISSUES","message":"recieved 0"}

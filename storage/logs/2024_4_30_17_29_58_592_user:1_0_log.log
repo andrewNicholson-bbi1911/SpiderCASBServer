@@ -1,0 +1,16 @@
+
+{"user_id":1,"type":"Common","time":1717099127856,"method":"REDMINE_GET_ISSUES","message":"recieved 4"}
+{"user_id":1,"type":"Common","time":1717099128777,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099134816,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099140872,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099146937,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099152979,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099159015,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099166551,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099175376,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099181440,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099187489,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099193550,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099199603,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099205645,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}
+{"user_id":1,"type":"Common","time":1717099211694,"method":"GET_CHATS","message":"successfuly loaded 16 chats"}

@@ -1,6 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1715862358143,"method":"Inintialization","message":"Successful"}
-{"user_id":0,"type":"Common","time":1715862358149,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
-{"user_id":0,"type":"Common","time":1715873962922,"method":"REDMINE_AUTH_DATA","message":"Redmine auth data for user:0 recieved"}
-{"user_id":0,"type":"Common","time":1715873963099,"method":"REDMINE_GET_ISSUES","message":"recieved 1"}
-{"user_id":0,"type":"Common","time":1715874690020,"method":"REDMINE_UPDATE_ISSUE_STATUS","message":"issue:1 status:2 updated"}

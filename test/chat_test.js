@@ -11,7 +11,7 @@ const {UserManager, User} = require("../domain/models/user");
 const external_services_tests = require("../_external_services/external_sevices_test.js");
 
 //testing CASB functions
-if(true){
+if(false){
     var test_user_1;
     var test_user_1_login = "test_user_1";
     var test_user_2;
@@ -87,10 +87,66 @@ if(true){
 }
 
 //testing external modules
-if(true){
+if(false){
     external_services_tests.init_tests.then(
         () => {
             console.log("external services test complited");
         }
     );
+}
+
+
+if(true){
+    const user_1 = UserManager.get_user_by_login_and_password("test_user_2", "password_2");
+    const user_2 = UserManager.create_new_user("casb_coder_1", "Coder 1 (Front)", "coder_password_1", "1234");
+    const user_3 = UserManager.create_new_user("casb_coder_2", "Coder 2 (Back)", "coder_password_2", "4321");
+    const user_4 = UserManager.create_new_user("casb_designer_1", "Designer 1", "designer_password_1", "5678");
+    const user_5 = UserManager.create_new_user("casb_analyst_1", "Analyst 1", "analyst_password_1", "9999");
+
+    ChatManager.create_new_chat("Base", [1, 2, 3, 4, 5]);
+    user_1.add_new_chat(6, "Base", "Общий чат разработки");
+    user_2.add_new_chat(6, "Base", "Общий чат разработки");
+    user_3.add_new_chat(6, "Base", "Общий чат разработки");
+    user_4.add_new_chat(6, "Base", "Общий чат разработки");
+    user_5.add_new_chat(6, "Base", "Общий чат разработки");
+
+    ChatManager.create_new_chat("Secret", [1, 2]);
+    user_1.add_new_chat(3, "Secret", "Чат c Coder_1");
+    user_2.add_new_chat(3, "Secret", "Администратор");
+
+    ChatManager.create_new_chat("Secret", [1, 3]);
+    user_1.add_new_chat(4, "Secret", "Чат c Coder_2");
+    user_3.add_new_chat(4, "Secret", "Администратор");
+
+    ChatManager.create_new_chat("Secret", [1, 4]);
+    user_1.add_new_chat(5, "Secret", "Чат c Designer_1");
+    user_4.add_new_chat(5, "Secret", "Администратор");
+
+    ChatManager.create_new_chat("Secret", [1, 5]);
+    user_1.add_new_chat(6, "Secret", "Чат c Analyst_1");
+    user_5.add_new_chat(6, "Secret", "Администратор");
+
+    ChatManager.create_new_chat("Base", [1, 2, 3]);
+    user_1.add_new_chat(7, "Base", "Чат кодеров");
+    user_2.add_new_chat(7, "Base", "Чат кодеров");
+    user_3.add_new_chat(7, "Base", "Чат кодеров");
+
+    ChatManager.create_new_chat("Base", [2, 4]);
+    user_2.add_new_chat(8, "Base", "Чат с дизайнером");
+    user_4.add_new_chat(8, "Base", "Чат с мобильным разработчиком");
+
+    ChatManager.create_new_chat("Base", [3, 5]);
+    user_3.add_new_chat(9, "Base", "Чат с аналитиком");
+    user_5.add_new_chat(9, "Base", "Чат с бек-разрабом");
+
+    ChatManager.create_new_chat("Base", [4, 5]);
+    user_4.add_new_chat(10, "Base", "Чат с аналитиком");
+    user_5.add_new_chat(10, "Base", "Чат с дизайнером");
+
+    ChatManager.create_new_chat("Base", [0, 1, 2, 3, 4, 5]);
+    user_1.add_new_chat(11, "Base", "Новости");
+    user_2.add_new_chat(11, "Base", "Новости )");
+    user_3.add_new_chat(11, "Base", "Новости");
+    user_4.add_new_chat(11, "Base", "Новости");
+    user_5.add_new_chat(11, "Base", "Новости");
 }

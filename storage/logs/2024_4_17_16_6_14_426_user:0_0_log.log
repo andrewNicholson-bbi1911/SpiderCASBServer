@@ -1,4 +1,0 @@
-
-{"user_id":0,"type":"Common","time":1715951174427,"method":"Inintialization","message":"Successful"}
-{"user_id":0,"type":"Common","time":1715951174431,"method":"LOGIN","message":"test_user_1 sucessfuly loged in"}
-{"user_id":0,"type":"Error","time":1715951188741,"method":"GET_CHATS","message":"Cannot read properties of undefined (reading 'get_chats_of_user_by_id')"}

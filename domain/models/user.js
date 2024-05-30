@@ -48,7 +48,7 @@ class UserAuthData{
 
     save_user_auth_data(){
         var object_str = JSON.stringify(this);
-        FileManager.updateStrStorageFileSync(
+        FileManager.updateEntitySync(
             config.RawUsersAuthFolder,
             `auth_user_${this.user_id}.json`,
             object_str
@@ -78,7 +78,7 @@ class User{
 
     save_user(){
         const object_str = JSON.stringify(this);
-        FileManager.updateStrStorageFileSync(
+        FileManager.updateEntitySync(
             config.RawUsersDataFolder,
             `user_${this.user_id}.json`,
             object_str
@@ -212,7 +212,7 @@ class UserManager{
     }
 
     static update_users_list(users_list){
-        FileManager.updateStrStorageFileSync(BaseUsersDir, UsersListFileName, JSON.stringify({users:users_list}));
+        FileManager.updateEntitySync(BaseUsersDir, UsersListFileName, JSON.stringify({users:users_list}));
     }
 }
 
